@@ -1,0 +1,72 @@
+*{
+    font-family: "Roboto", sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #caade6;
+}
+
+header{
+    background-color: #610588;
+    height: 84px;
+}
+
+#LogoTopo{
+    padding: 0px 0px 0px 80px;
+}
+
+#ListaTopo{
+    color: white;
+    font-size: 20px;
+    padding: 0px 0px 0px 120px;
+}
+
+h1{
+    color: #610588;
+    font-size: 64px;
+    text-align: center;
+    padding: 80px 0px 20px 0px;
+}
+
+#Texto1{
+    color: #610588;
+    font-size: 26px;
+    text-align: justify;
+    padding: 0px 80px;
+}
+
+#FotoMulher{
+    padding: 20px 50px 80px 80px;
+}
+
+.FundoRoxoEscuro{
+    background-color: #610588;
+}
+
+#LogoMeio{
+    padding: 30px 20px 70px 80px;
+}
+
+h2{
+    color: white;
+    font-size: 28px;
+    text-align: center;
+    padding: 0px 50px 20px 80px;
+}
+
+#Texto2{
+    color: white;
+    font-size: 20px;
+    text-align: justify;
+    padding: 0px 80px 50px 80px;
+}
+
+footer{
+    background-color: #AA79DC;
+    color: white;
+    font-size: 16px;
+    text-align: center;
+    padding: 20px;
+}
